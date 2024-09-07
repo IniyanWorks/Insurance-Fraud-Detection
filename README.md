@@ -11,5 +11,6 @@ This project aims to develop an intelligent model for insurance fraud detection.
 - Seaborn
 - Scikitlearn
 
-## Data Source
-Randomly generated dataset (damage_report_DE.csv / damage_report_EN.csv)
+## Links
+- Randomly generated dataset: [German](https://github.com/IniyanWorks/Insurance-Fraud-Detection/blob/main/damage_reports_DE.csv) / [English](https://github.com/IniyanWorks/Insurance-Fraud-Detection/blob/main/damage_reports_EN.csv)
+- Notebook: [German](https://github.com/IniyanWorks/Insurance-Fraud-Detection/blob/main/fraud_detection_model_DE.ipynb) / [English](https://github.com/IniyanWorks/Insurance-Fraud-Detection/blob/main/fraud_detection_model_EN.ipynb)
