@@ -4,7 +4,7 @@
 This project aims to develop an intelligent model for insurance fraud detection. Using historical claims that have already been marked as fraudulent or legitimate, a system will be created that is able to automatically identify suspicious patterns, thus efficiently optimizing fraud detection.
 
 ## Tools
-# Python
+### Python
 - NumPy
 - Pandas
 - Matplotlib
